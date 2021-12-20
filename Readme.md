@@ -62,6 +62,7 @@ In this section of work, we propose a pipeline described in figure above that wo
 </div>
 
 The DCGAN is implemented in following url:
+
 https://github.com/bochendong/Pokemon_gan
 
 
